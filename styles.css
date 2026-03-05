@@ -8,11 +8,37 @@ body{
 fa-code{
             color:red;
 }
-            
 
 
 
+.tudo{
+    width: 1000px;
+    height: 1200px;
+    margin: auto;
+    background-color: black;
+}
 
+.topo, .rodapé{
+    width: 1000px;
+    height: 200px;
+    float: left;
+    background-color: aqua;
+}
 
+.menu{
+    width: 1000px;
+    height: 50px;
+    background-color: blueviolet;
+}
 
+.meio{
 
+}
+
+.lateral{
+
+}
+
+.rodapé{
+    
+}
