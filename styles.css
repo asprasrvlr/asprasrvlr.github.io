@@ -1,44 +1,50 @@
 body{
-            background-color: darkslategray;
+            background:linear-gradient(darkslategrey, black);
             font-family:"Bytesized", Arial, Tahoma, "Arial Black";
             font-size: 22px;
             color: white;
+
+h1{
+    font-size: 30px;
+    font-family: cursive;
+    color: antiquewhite;
 }
 
-fa-code{
-            color:red;
 }
-
 
 
 .tudo{
-    width: 1000px;
-    height: 1200px;
-    margin: auto;
+    width: 1400px;
+    height: 900px;
+    margin:0 auto;
     background-color: black;
 }
 
 .topo, .rodapé{
-    width: 1000px;
-    height: 200px;
+    width: 1400px;
+    height: 100px;
     float: left;
     background-color: aqua;
 }
 
 .menu{
-    width: 1000px;
+    width: 1400px;
     height: 50px;
-    background-color: blueviolet;
+    background-color: darkcyan;
 }
 
 .meio{
-
+    width: 1000px;
+    height: 700px;
+    float: right;
+    background-color: darkslateblue;
 }
 
 .lateral{
-
+    width: 400px;
+    height: 700px;
+    float: left;
+    background-color: darkgray;
 }
 
-.rodapé{
-    
-}
+
