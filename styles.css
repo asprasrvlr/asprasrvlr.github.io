@@ -35,13 +35,13 @@ h1{
 
 .meio{
     width: 1000px;
-    height: 700px;
+    height: 1250px;
     float: right;
     background-color: darkslateblue;
 }
 
 .lateral{
-    width: 400px;
+    width: 150px;
     height: 700px;
     float: left;
     background-color: darkgray;
